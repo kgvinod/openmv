@@ -1,3 +1,6 @@
 [submodule "src/omv/modules/ulab"]
 	path = src/omv/modules/ulab
 	url = https://github.com/v923z/micropython-ulab.git
+[submodule "src/micropython"]
+	path = src/micropython
+	url = https://github.com/kgvinod/micropython.git
